@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://t4.ftcdn.net/jpg/03/78/40/11/360_F_378401105_9LAka9cRxk5Ey2wwanxrLTFCN1U51DL0.jpg);
+    background-size: cover;
+    margin-top: auto;
+}
+h3{
+    color: darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.extra{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.footer{
+    z-index: 1;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.652);
+    color: azure;
+}

@@ -1,0 +1,42 @@
+body{
+    background-image: url(https://assets-global.website-files.com/5fda95cd487da57637f0cbfe/60b3ee4cbe8579192abf4537_le-bora-bora-by-pearl-resorts-aerial-by-Mailion%20-24.jpg);
+    background-size: cover;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+}
+img{
+    border: 2px solid black;
+    padding: 2px;
+    width: 50%;
+}
+iframe{
+    border: 2px solid black;
+    padding: 2px;
+}
+.centerme{
+    display: block;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+ol{
+    background-color:rgba(135, 206, 250, 0.824);
+}
+.common{
+    position: absolute;
+}
+.footer{
+    z-index: 1;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    text-align: center;
+    background-color: rgba(135, 206, 250, 0.824);
+    color: azure;
+}
+.mainbody{
+    top: 800px;
+}
